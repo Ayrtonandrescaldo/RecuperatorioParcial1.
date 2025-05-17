@@ -3,7 +3,7 @@ cantidades = []
 salir = True
 
 while salir:
-    print("\nMenú de opciones:")
+    print("Menú de opciones:")
     print("1. Agregar producto")
     print("2. Ver productos agotados")
     print("3. Actualizar stock")
